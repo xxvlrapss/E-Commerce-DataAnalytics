@@ -23,5 +23,5 @@ Then, start the Streamlit application with the following command:
 
                 streamlit run main.py
 
-             ![image](https://github.com/user-attachments/assets/a17f1e74-bbd7-4ef6-9890-7eb9f1b2cb92)
+  ![image](https://github.com/user-attachments/assets/a17f1e74-bbd7-4ef6-9890-7eb9f1b2cb92)
 
