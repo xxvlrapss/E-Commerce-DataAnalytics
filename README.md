@@ -18,7 +18,7 @@ Ensure you have a suitable Python environment set up, then install the required 
                 pip install -r requirements.txt
 Usage To run the project, navigate to the project directory on your local machine:
 
-                cd submission-data-analyst/dashboard/
+                cd project-data-analytics/dashboard/
 Then, start the Streamlit application with the following command:
 
                 streamlit run main.py
