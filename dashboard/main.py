@@ -30,7 +30,7 @@ with st.sidebar:
     st.title("Dimas Prayoga")
 
     # Logo Image
-    st.image("dms.png")
+    st.image("https://raw.githubusercontent.com/xxvlrapss/E-Commerce-DataAnalytics/refs/heads/main/dashboard/dms.png")
 
     # Date Range
     start_date, end_date = st.date_input(
